@@ -1,8 +1,10 @@
 # treehack2020
 Convo, a gamification app that helps people who want to improve their communication skills, especially people with mental health issues that prevent them from connecting with others.
-https://projects.invisionapp.com/prototype/ck6o9hjwj006o7k01qqj9bsnn/play
+Interactive app: https://projects.invisionapp.com/prototype/ck6o9hjwj006o7k01qqj9bsnn/play
+Demo video: https://www.youtube.com/watch?v=xMa2z7dGK2k
 
-OUR FULL STORY:
+
+### OUR FULL STORY:
 ## Inspiration
 On this special occasion of Valentine’s Day, members of our group blame the reason for their single status to socially awkward guys when talking to girls. “Why can’t they just learn how to communicate with us?” one complains. We soon realize that this is a social phenomenon that exists beyond love. In order to help people who want to improve their conversation skills, especially people that have mental health issues that prevent them from connecting with others, we think it would be nice to give some demo, practice, and advice through our App to reduce embarrassing and uncomfortable communications.
 ## What it does
