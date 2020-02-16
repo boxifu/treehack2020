@@ -2,6 +2,8 @@
 Convo, a gamification app that helps people who want to improve their communication skills, especially people with mental health issues that prevent them from connecting with others.<br>
 Interactive app: https://projects.invisionapp.com/prototype/ck6o9hjwj006o7k01qqj9bsnn/play<br>
 Demo video: https://www.youtube.com/watch?v=xMa2z7dGK2k
+![Aaron Swartz](https://github.com/boxifu/treehack2020/blob/master/Capture.JPG?raw=true)
+![Aaron Swartz](https://raw.githubusercontent.com/boxifu/treehack2020/master/Capt3ure.JPG)
 
 
 ### OUR FULL STORY:
