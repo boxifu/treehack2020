@@ -1,5 +1,5 @@
 # treehack2020
-Convo, a gamification app that helps people who want to improve their communication skills, especially people with mental health issues that prevent them from connecting with others.
+Convo, a gamification app that helps people who want to improve their communication skills, especially people with mental health issues that prevent them from connecting with others.<br>
 Interactive app: https://projects.invisionapp.com/prototype/ck6o9hjwj006o7k01qqj9bsnn/play<br>
 Demo video: https://www.youtube.com/watch?v=xMa2z7dGK2k
 
@@ -19,7 +19,7 @@ This is our first Hackathon, and we didn’t expect to build anything, to be hon
 We learned how to build a product (an app) from scratch. Coming up with an idea and step by step realizing it, both our abilities and the challenges, we tried different platforms and tools, which gave us an overview of the developer environment. Most importantly, we honed our UX/UI skills through designing the app.
 ## What's next for Convo
 More detailed study/survey for more data in order to improve our question, answer, and scoring system. If we have a large enough question database and allowing users to answer only a small number of them randomly, the result would be more reliable.
-We also thought about making a chatting function, where users can chat with strangers online for a short period of time. After each conversation, both parties can rate how comfortable they feel when chatting with the other, and see the score they receive. This allows users to practice applying the skills they learn from the question database and actually get better at talking to real people.
+We also thought about making a chatting function, where users can chat with strangers online for a short period of time. After each conversation, both parties can rate how comfortable they feel when chatting with the other, and see the score they receive. This allows users to practice applying the skills they learn from the question database and actually get better at talking to real people.<br>
 We would add a data collection process using machine learning to train the computer to tell awkward conversation from not awkward ones, further allowing users to “talk” with the app rather than selecting the options available.
-We also thought about incorporating speech recognition to the game, enabling the app to give feedback on the tone and emotion as well as the content.
-Most importantly that we want to train the app into a bot that can continue the conversation with users instead of just giving prompts.
+We also thought about incorporating speech recognition to the game, enabling the app to give feedback on the tone and emotion as well as the content.<br>
+Most importantly that we want to train the app into a bot that can continue the conversation with users instead of just giving prompts.<br>
